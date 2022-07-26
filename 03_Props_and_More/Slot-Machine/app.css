@@ -1,0 +1,32 @@
+*,
+*::after,
+*::before{
+    box-sizing: border-box;
+    margin: 0;
+}
+
+body {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 18px;
+    text-align: center;
+}
+
+h1 {
+    margin: .5rem 0;
+}
+
+.Machine {
+    background-color: burlywood;
+    width: 50%;
+    margin: 0 auto;
+}
+
+.win {
+    color: whitesmoke;
+    background-color: green;
+}
+
+.lose {
+    color: whitesmoke;
+    background-color: orangered
+}

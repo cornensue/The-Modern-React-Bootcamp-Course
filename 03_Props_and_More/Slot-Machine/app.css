@@ -16,7 +16,7 @@ h1 {
 }
 
 .Machine {
-    background-color: burlywood;
+    background-color: darkslategrey;
     width: 50%;
     margin: 0 auto;
 }
@@ -28,5 +28,5 @@ h1 {
 
 .lose {
     color: whitesmoke;
-    background-color: orangered
+    background-color: red;
 }

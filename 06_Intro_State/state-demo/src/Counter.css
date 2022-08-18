@@ -1,0 +1,26 @@
+section {
+    width: 40%;
+    background-color: darkolivegreen;
+    margin: 0 auto;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 2rem;
+    color: wheat;
+    letter-spacing: .2rem;
+}
+
+h1 {
+    margin-top: .8rem;
+}
+
+p {
+    font-weight: 800;
+}
+
+button {
+    padding: .3rem 1rem;
+    margin: .65rem;
+    background-color: wheat;
+    color: whitesmoke;
+    border: none;
+    border-radius: .1rem;
+}
